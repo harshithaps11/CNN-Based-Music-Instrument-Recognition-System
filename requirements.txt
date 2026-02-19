@@ -1,0 +1,11 @@
+streamlit
+numpy
+matplotlib
+librosa
+fpdf
+plotly
+soundfile
+tensorflow
+scipy
+Pillow
+kaleido
