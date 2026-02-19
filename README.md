@@ -11,7 +11,7 @@ InstruNet AI is an intelligent audio classification system that leverages deep l
 
 Developed during my tenure at Infosys Springboard, this project demonstrates practical applications of deep learning in audio signal processing, showcasing skills in model development, deployment, and user interface design.
 
-**Live Demo**: [View Application](https://your-app.streamlit.app) *(Update after deployment)*
+**Live Demo**: [https://instrunet-ai-by-hash.streamlit.app](https://instrunet-ai-by-hash.streamlit.app)
 
 ---
 
