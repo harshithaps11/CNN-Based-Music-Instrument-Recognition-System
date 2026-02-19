@@ -398,10 +398,8 @@ Model trained on publicly available instrument datasets including:
 
 **Developer**: Harshitha P Salian
 
-📧 Email: your.email@example.com  
-💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-🌐 Portfolio: [yourportfolio.com](https://yourportfolio.com)  
-🐱 GitHub: [@yourusername](https://github.com/yourusername)
+💼 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/harshitha-p-s-163574288/)  
+
 
 ---
 
